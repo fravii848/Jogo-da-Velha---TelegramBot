@@ -402,7 +402,7 @@ class JogoDaVelha:
 
 
 # Pega o token da variável de ambiente BOT_TOKEN
-TOKEN = os.getenv("736114907:AAHJ15aUh8c7_Hk7Ok13JK1MOUdH4DsO8xI")
+TOKEN = os.getenv("900184140:AAHGjLCohIBIWRUVYzoKBKdA7IH3zWNw8T0")
 
 if __name__ == "__main__":
     logging.basicConfig(level=logging.DEBUG,
